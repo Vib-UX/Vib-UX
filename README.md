@@ -11,10 +11,10 @@
 <h2>About Me :book: </h2>
 
 - :man_technologist:Currently exploring Blockchain Development. <br>
-- :man_student:Actively contributing to Bitcoin Core (Open Source). <br>
+- :man_student:Actively contributing to Bitcoin - Lightning Network (Open Source). <br>
 - :scroll:Defi and Crypto Enthusiast. <br>
 - :monocle_face:Experienced in ML/AI, Computer Vision.
-- :infinity:In love with Mathematics and Algorithms. <br>
+- :infinity:In love with DS and Algorithms. <br>
 - :100:Always open to learn and adapt new tech trends. 
 
 
