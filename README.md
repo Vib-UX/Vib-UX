@@ -2,7 +2,7 @@
 
 <h1>Hi there , I am Vibhav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br>
 :technologist: <br>
-3rd year Undergrad B.Tech CSE
+Final year Undergrad B.Tech CSE
 </h1>
 <hr>
 
