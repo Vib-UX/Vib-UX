@@ -32,6 +32,10 @@ Final year Undergrad B.Tech CSE
 
 [![Medium Articles](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@vibchess123&type=horizontal)](https://medium.com/@vibchess123)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vib-UX&show_icons=true&count_private=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vib-UX&layout=compact&count_private=true&theme=radical&langs_count=10)
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=Vib-UX&count_private=true&show_icons=true&theme=radical&include_all_commits=true" align = "left" width = "50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vib-UX&theme=radical" align="right" width = "45%">
+
+</div>
+
