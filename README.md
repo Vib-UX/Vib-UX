@@ -10,7 +10,7 @@ Final year Undergrad B.Tech CSE
 
 <h2>About Me :book: </h2>
 
-- :man_technologist:Currently exploring Blockchain Development. <br>
+- :man_technologist:Currently working on Blockchain Development. <br>
 - :man_student:Actively contributing to Bitcoin - Lightning Network (Open Source). <br>
 - :scroll:Defi and Crypto Enthusiast. <br>
 - :monocle_face:Experienced in ML/AI, Computer Vision.
