@@ -2,7 +2,7 @@
 
 <h1>Hi there , I am Vibhav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> <br>
 :technologist: <br>
-Final year Undergrad B.Tech CSE
+Studying Masters in CSE with Blockchain Specialization
 </h1>
 <hr>
 
