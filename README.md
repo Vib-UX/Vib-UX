@@ -20,8 +20,8 @@ Studying Masters in CSE with Blockchain Specialization
 
 <h2>Connect With Me :handshake: </h2>
 <p>
-  <a href = "https://www.linkedin.com/in/vibhav-sharma-68bb076b/"> Linkedin </a> <span> | </span>
-  <a href = "https://vibchess123.medium.com/"> Medium </a> <span> | </span>
+  <a href = "https://www.linkedin.com/in/vibit/"> Linkedin </a> <span> | </span>
+  <a href = "https://medium.com/@vibhavcse"> Medium </a> <span> | </span>
   <a href = "https://twitter.com/crypto_vib/"> Twitter </a> <span> | </span>
   
 </p>
@@ -30,7 +30,7 @@ Studying Masters in CSE with Blockchain Specialization
 ---
 ### Info :books: 
 
-[![Medium Articles](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@vibchess123&type=horizontal)](https://medium.com/@vibchess123)
+[![Medium Articles](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@vibhavcse&type=horizontal)](https://medium.com/@vibhavcse)
 
 
 <div>
