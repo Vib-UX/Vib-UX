@@ -7,20 +7,66 @@
 
 ---
 
-<h2>About Me 📘</h2>
+
+  <h2> 📘 About Me &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <span>
+    <a href="https://www.linkedin.com/in/vibit" target="_blank" rel="noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" alt="LinkedIn" />
+      </picture>
+    </a>
+    <a href="https://www.x.com/crypto_vib" target="_blank" rel="noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="24" height="24" alt="Twitter" />
+      </picture>
+    </a>
+    <a href="https://discord.com/users/predator_757" target="_blank" rel="noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="24" height="24" alt="Discord" />
+      </picture>
+    </a>
+    <a href="https://www.github.com/Vib-UX" target="_blank" rel="noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="24" height="24" alt="GitHub" />
+      </picture>
+    </a>
+    <a href="http://www.medium.com/@vibhavcse" target="_blank" rel="noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="24" height="24" alt="Medium" />
+      </picture>
+    </a>
+  </span>
+ </h2>
+
+
+<img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400">
 
 - 👨‍💻 Currently learning Rust.
 - 🔗 Actively contributing to Bitcoin - Lightning Network (Open Source).
 - 🌐 Web3, DeFi, and Crypto Enthusiast.
 - 🤖 Experienced in ML/AI, Computer Vision.
 - 💡 Passionate about Data Structures & Algorithms.
-- ⚡ Hackathon Hunter 
+- ⚡ Hackathon Hunter 
 - 🎯 Always eager to learn and adapt to new tech trends.
+
 
 <h2>🏆 Major Hack Wins 🚀</h2> <ul> <li>✨ <strong>AgentX</strong> @ ETHGlobal 🇸🇬 Singapore 2024 - <em>Winner (AirDAO)</em> <a href="https://ethglobal.com/showcase/agentx-j5fcc">Project Link</a> </li> <li>🔥 <strong>getFit</strong> @ ETHGlobal 🌎 Online 2024 - <em>Winner (Galadriel AI)</em> <a href="https://ethglobal.com/showcase/getfit-7kj6t">Project Link</a> </li> <li>👩‍⚕️ <strong>medX</strong> @ SuperHacks 🌎 Online 2024 - <em>Winner (EAS)</em> <a href="https://ethglobal.com/showcase/medx-fdmxz">Project Link</a> </li> <li>🔗 <strong>BlockTease</strong> @ Chainlink BlockMagic 🌎 Online - <em>Winner (Chainlink AI)</em> <a href="https://devpost.com/software/blocktease">Project Link</a> </li> <li>🌊 <strong>HabibiCross 🏃🌉</strong> @ ETHDubai 🇦🇪 2024 - <em>Winner (Devfolio)</em> <a href="https://devfolio.co/projects/habibicross-905d">Project Link</a> </li> </ul>
 
+---
 
 <h2>⚙️ Open Source Contributions 🌐</h2> <h3>Bitcoin Lightning Network</h3> <ul> <li>🚀 Lightning Network Daemon (Go) <ul> <li>⏩ Achieved a <strong>1.74x speedup</strong> in transaction processing by optimizing the LND codebase with batched JSON-RPC methods. <a href="https://github.com/Vib-UX/lnd/pull/1">GitHub PR</a> </li> <li>✅ Enhanced reliability with comprehensive unit tests for key functions, ensuring consistent system performance.</li> <li>⚡ Upgraded `btcwallet` to support asynchronous calls, boosting responsiveness across the Lightning Network ecosystem. <a href="https://github.com/Vib-UX/btcwallet/pull/1">GitHub PR</a> </li> </ul> </li> <li>⚡ Node Lightning (Node.js) <ul> <li>🔄 Refactored message types in `@node-lightning/bitcoin` library for enhanced interoperability. <a href="https://github.com/node-lightning/node-lightning/pull/187">GitHub PR</a> </li> <li>🔐 Improved compliance with peer protocol’s <a href="https://github.com/lightning/bolts/blob/master/02-peer-protocol.md#closing-initiation-shutdown">shutdown initiation</a> to ensure smooth closure of connections. <a href="https://github.com/node-lightning/node-lightning/pull/185">GitHub PR</a> <a href="https://github.com/node-lightning/node-lightning/pull/182">GitHub PR</a> </li> <li>🛣️ Developed routing logic for the network graph project, optimizing routes with minimized fees along the path. <a href="https://github.com/node-lightning/node-lightning/pull/192">GitHub PR</a> </li> </ul> </li> </ul>
+
+---
 
 <h2>Skills 🚀</h2>
 
@@ -30,55 +76,12 @@
 
 ---
 
-<h2> Socials 🤝</h2>
-<p align="left">
-                      <a href="https://discord.com/users/predator_757" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.github.com/Vib-UX" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/vibit" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="http://www.medium.com/@vibhavcse" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.x.com/crypto_vib" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>
-
-
----
-
 <h2>GitHub Stats 📈</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vib-UX&theme=radical" width="48%">
 </div>
 
 ---
-
-<h2>Support Me ☕</h2>
-<p align="center">
+<p align="left">
   <a href="https://www.buymeacoffee.com/vibhav.eth"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"></a>
 </p>
