@@ -52,11 +52,11 @@
 <img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400">
 
 - 👨‍💻 Currently learning Rust.
-- 🔗 Actively contributing to Bitcoin - Lightning Network (Open Source).
+- 🛠️ Hackathon Builder. 
+- 🤝 Contributed to Bitcoin - Lightning Network (Open Source).
 - 🌐 Web3, DeFi, and Crypto Enthusiast.
 - 🤖 Experienced in ML/AI, Computer Vision.
 - 💡 Passionate about Data Structures & Algorithms.
-- ⚡ Hackathon Hunter 
 - 🎯 Always eager to learn and adapt to new tech trends.
 
 
