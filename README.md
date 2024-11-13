@@ -49,7 +49,7 @@
  </h2>
 
 
-<img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="300">
+<img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="375">
 
 - 👨‍💻 Currently learning Rust.
 - 🛠️ Hackathon Builder. 
