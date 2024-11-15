@@ -51,7 +51,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="375">
 
-- 👨‍💻 Currently learning Rust.
+- 👨‍💻 Currently learning DeFi @Cyfrin.
 - 🛠️ Hackathon Builder. 
 - 🤝 Contributed to Bitcoin - Lightning Network (Open Source).
 - 🌐 Web3, DeFi, and Crypto Enthusiast.
@@ -59,12 +59,57 @@
 - 💡 Passionate about Data Structures & Algorithms.
 - 🎯 Always eager to learn and adapt to new tech trends.
 
+---
 
-<h2>🏆 Major Hack Wins 🚀</h2> <ul> <li>✨ <strong>AgentX</strong> @ ETHGlobal 🇸🇬 Singapore 2024 - <em>Winner (AirDAO)</em> <a href="https://ethglobal.com/showcase/agentx-j5fcc">Project Link</a> </li> <li>🔥 <strong>getFit</strong> @ ETHGlobal 🌎 Online 2024 - <em>Winner (Galadriel AI)</em> <a href="https://ethglobal.com/showcase/getfit-7kj6t">Project Link</a> </li> <li>👩‍⚕️ <strong>medX</strong> @ SuperHacks 🌎 Online 2024 - <em>Winner (EAS)</em> <a href="https://ethglobal.com/showcase/medx-fdmxz">Project Link</a> </li> <li>🔗 <strong>BlockTease</strong> @ Chainlink BlockMagic 🌎 Online - <em>Winner (Chainlink AI)</em> <a href="https://devpost.com/software/blocktease">Project Link</a> </li> <li>🌊 <strong>HabibiCross 🏃🌉</strong> @ ETHDubai 🇦🇪 2024 - <em>Winner (Devfolio)</em> <a href="https://devfolio.co/projects/habibicross-905d">Project Link</a> </li> </ul>
+## 🚀 Projects 🚣🏻‍♂️
+
+| Name | Description | Source Code | Deployed At | Built with 🤍 At |
+|:----:|:------------|:-----------:|:-----------:|:--------:|
+| **🇺🇸 ProgressionXR** | AI, XR, and Web3 fitness platform featuring AI wellness coaches, Fitbit/VR integrations, and multichain attestations for privacy. 🚀 | [Repo](https://github.com/ProgressionXR-eth-sanfrancisco) | [Vercel](https://progression-xr.vercel.app/health-gains) | 🏅[ETHGlobal SanFrancisco](https://ethglobal.com/showcase/progressionxr-84tjv) |
+| **🇸🇬 AgentX** | Predict the future with decentralized real-time predictions powered by oracles. Place bets on live polls and win big! | [Repo](https://github.com/AgentX-eth-singapore/custom-oracle-polymarket) | [Vercel](https://agentx-ethsg.vercel.app/app) | 🏅[ETHGlobal Singapore](https://ethglobal.com/showcase/agentx-j5fcc) |
+| **GetFit** | Revolutionizing fitness with AI-driven motivation, personalized workouts, P2P betting, and gamified rewards. 💪 | [Repo](https://github.com/getFit-EthOnline) | [Vercel](https://getfit-ethonline.vercel.app/) | 🏅[ETHGlobal Online](https://ethglobal.com/showcase/getfit-7kj6t) |
+| **MedX** | Blockchain-powered healthcare management for secure medical records and streamlined prescriptions. 👩‍⚕️ | [Repo](https://github.com/medX-Superhacks) | [Vercel](https://medx-superhack.vercel.app/) | 🏅[SuperHacks](https://ethglobal.com/showcase/medx-fdmxz) |
+| **BlockTease** | 💘 OnlyFans for web3: A decentralized platform addressing payout delays, high fees, and hidden charges with transparent agreements. | [Repo](https://github.com/BlockTease-BlockMagic) | [Vercel](https://blocktease.vercel.app/) | 🏅[Chainlink BlockMagic](https://devpost.com/software/blocktease) |
+| **🌊 HabibiCross 🏃🌉** | A platform rewarding achievements with immediate cryptocurrency payouts, bridging personal effort with tangible rewards. 🌊🏃🌉 | [Repo](https://github.com/eth-dubai-habibi-cross) | [Vercel](https://habibi-cross-frontend.vercel.app/) | 🏅[ETHDubai 🇦🇪](https://devfolio.co/projects/habibicross-905d) |
+| **Abstrakt🆔** | Decentralized auto loan approvals leveraging Polygon ID and Sepolia Scroll for secure identity verification and blockchain finance. 🚀🔐 | [Repo](https://github.com/Vib-UX/AbstraktID) | [Vercel](https://abstract-id.vercel.app/) | IDThon by [Polygon](https://polygon.technology/) |
 
 ---
 
-<h2>⚙️ Open Source Contributions 🌐</h2> <h3>Bitcoin Lightning Network</h3> <ul> <li>🚀 Lightning Network Daemon (Go) <ul> <li>⏩ Achieved a <strong>1.74x speedup</strong> in transaction processing by optimizing the LND codebase with batched JSON-RPC methods. <a href="https://github.com/Vib-UX/lnd/pull/1">GitHub PR</a> </li> <li>✅ Enhanced reliability with comprehensive unit tests for key functions, ensuring consistent system performance.</li> <li>⚡ Upgraded `btcwallet` to support asynchronous calls, boosting responsiveness across the Lightning Network ecosystem. <a href="https://github.com/Vib-UX/btcwallet/pull/1">GitHub PR</a> </li> </ul> </li> <li>⚡ Node Lightning (Node.js) <ul> <li>🔄 Refactored message types in `@node-lightning/bitcoin` library for enhanced interoperability. <a href="https://github.com/node-lightning/node-lightning/pull/187">GitHub PR</a> </li> <li>🔐 Improved compliance with peer protocol’s <a href="https://github.com/lightning/bolts/blob/master/02-peer-protocol.md#closing-initiation-shutdown">shutdown initiation</a> to ensure smooth closure of connections. <a href="https://github.com/node-lightning/node-lightning/pull/185">GitHub PR</a> <a href="https://github.com/node-lightning/node-lightning/pull/182">GitHub PR</a> </li> <li>🛣️ Developed routing logic for the network graph project, optimizing routes with minimized fees along the path. <a href="https://github.com/node-lightning/node-lightning/pull/192">GitHub PR</a> </li> </ul> </li> </ul>
+<h2>⚙️ Open Source 🌐</h2>
+
+<h3>Bitcoin Lightning Network</h3>
+<ul>
+  <li>🚀 Lightning Network Daemon (Go)
+    <ul>
+      <li>⏩ Achieved a <strong>1.74x speedup</strong> in transaction processing by optimizing the LND codebase with batched JSON-RPC methods. <a href="https://github.com/Vib-UX/lnd/pull/1">GitHub PR</a></li>
+      <li>✅ Enhanced reliability with comprehensive unit tests for key functions, ensuring consistent system performance.</li>
+      <li>⚡ Upgraded <code>btcwallet</code> to support asynchronous calls, boosting responsiveness across the Lightning Network ecosystem. <a href="https://github.com/Vib-UX/btcwallet/pull/1">GitHub PR</a></li>
+    </ul>
+  </li>
+  <li>⚡ Node Lightning (Node.js)
+    <ul>
+      <li>🔄 Refactored message types in <code>@node-lightning/bitcoin</code> library for enhanced interoperability. <a href="https://github.com/node-lightning/node-lightning/pull/187">GitHub PR</a></li>
+      <li>🔐 Improved compliance with peer protocol’s <a href="https://github.com/lightning/bolts/blob/master/02-peer-protocol.md#closing-initiation-shutdown">shutdown initiation</a> to ensure smooth closure of connections. <a href="https://github.com/node-lightning/node-lightning/pull/185">GitHub PR</a> <a href="https://github.com/node-lightning/node-lightning/pull/182">GitHub PR</a></li>
+      <li>🛣️ Developed routing logic for the network graph project, optimizing routes with minimized fees along the path. <a href="https://github.com/node-lightning/node-lightning/pull/192">GitHub PR</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3>Chainlink Labs</h3>
+<ul>
+  <li>🚀 Provided the custom n-lane Multihop solution for Chainlink Cross-Chain-Interoperability Protocol, earning a notable mention @ETHGlobal. <a href="https://github.com/medX-Superhacks/CCIP-router">GitHub Repo</a></li>
+</ul>
+
+<h3>XMTP</h3>
+<ul>
+  <li>🤖 Added functionality to enable bot replies within the quickstart-frame integration, addressing limitations in handling bot replies created using message-kit. <a href="https://github.com/xmtp/xmtp-quickstart-frames/pull/9">GitHub PR</a></li>
+</ul>
+
+<h3>Ethereum Attestation Service</h3>
+<ul>
+  <li>🔧 <strong>Fix:</strong> Replaced deprecated <code>dataRoot</code> references with <code>privateData</code> in the <code>SchemaEncoder</code>, aligning with the latest EAS SDK updates. <a href="https://github.com/ethereum-attestation-service/eas-sdk/pull/113">GitHub PR</a></li>
+</ul>
+
 
 ---
 
