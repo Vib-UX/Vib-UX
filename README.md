@@ -51,7 +51,8 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="375">
 
-- 👨‍💻 Currently learning DeFi @Cyfrin.
+- 👨‍💻 Currently learning Rust 🦀.
+- 🚀 Adv Foundry, Stablecoins, AMMs, Uniswap pools, DEXs & Security @Cyfrin.
 - 🛠️ Hackathon Builder. 
 - 🤝 Contributed to Bitcoin - Lightning Network (Open Source).
 - 🌐 Web3, DeFi, and Crypto Enthusiast.
@@ -68,10 +69,10 @@
 | **MedX** | zK-powered healthcare management for secure medical records and streamlined prescriptions. 👩‍⚕️ | [Repo](https://github.com/medX-Superhacks) | [Vercel](https://medx-superhack.vercel.app/) | 🏅[SuperHacks](https://ethglobal.com/showcase/medx-fdmxz) |
 | **BlockTease** | 💘 OnlyFans for web3: A decentralized platform addressing payout delays, high fees, and hidden charges with transparent agreements. | [Repo](https://github.com/BlockTease-BlockMagic) | [Vercel](https://blocktease.vercel.app/) | 🏅[Chainlink BlockMagic](https://devpost.com/software/blocktease) |
 | **Crypto मिलन ✨** | Revolutionizing event engagement with POAPs, GeoFencing, and AR/AI, providing exclusive rewards and perks for event attendance. 🎁 | [Repo](https://github.com/crypto-unfold2024) | [Vercel](https://crypto-milan.vercel.app/) | 🏅[Unfold'24](https://devfolio.co/projects/crypto-3cd9) |
-| **MemoraAi** | Capture Memories OnChain 🤳🏻 Enables secure, private sharing of memories with dynamic AR assets and zk-proofs, enhanced by proximity-based payments. 📡 | [Repo](https://github.com/memoraAI-ethindia24) | [Vercel](https://momora-ai-frontend.vercel.app/) | 🏅[ETH-India'24 🇮🇳](https://x.com/huddle01com/status/1869307358729621942) |
+| **MemoraAi** | Capture Memories OnChain 🤳🏻 Enables secure, private sharing of memories with dynamic AR assets and zk-proofs, enhanced by proximity-based payments. 📡 | [Repo](https://github.com/memoraAI-ethindia24) | [Vercel](https://momora-ai-frontend.vercel.app/) | 🏅[ETH-India'24 🇮🇳](https://devfolio.co/projects/memoraai-590b) |
 | **🇺🇸 ProgressionXR** | AI, XR, and Web3 fitness platform featuring AI wellness coaches, Fitbit/VR integrations, and multichain attestations for privacy. 🚀 | [Repo](https://github.com/ProgressionXR-eth-sanfrancisco) | [Vercel](https://progression-xr.vercel.app/health-gains) | 🏅[ETHGlobal SanFrancisco](https://ethglobal.com/showcase/progressionxr-84tjv) |
 | **🇸🇬 AgentX** | Predict the future with decentralized real-time predictions powered by oracles. Place bets on live polls and win big! | [Repo](https://github.com/AgentX-eth-singapore/custom-oracle-polymarket) | [Vercel](https://agentx-ethsg.vercel.app/app) | 🏅[ETHGlobal Singapore](https://ethglobal.com/showcase/agentx-j5fcc) |
-| **GetFit** | Revolutionizing fitness with AI-driven motivation, personalized workouts, P2P betting, and gamified rewards. 💪 | [Repo](https://github.com/getFit-EthOnline) | [Vercel](https://getfit-ethonline.vercel.app/) | 🏅[ETHGlobal Online](https://ethglobal.com/showcase/getfit-7kj6t) |
+| **GetFit** | Revolutionizing fitness with AI-driven motivation, personalized workouts, P2P betting, and gamified rewards. 💪 | [Repo](https://github.com/getFit-EthOnline) | [Vercel](https://getfit-ethonline.vercel.app/) | 🏅[ETHGlobal Online'24](https://ethglobal.com/showcase/getfit-7kj6t) |
 | **🌊 HabibiCross 🏃🌉** | A platform rewarding achievements with immediate cryptocurrency payouts, bridging personal effort with tangible rewards. 🌊🏃🌉 | [Repo](https://github.com/eth-dubai-habibi-cross) | [Vercel](https://habibi-cross-frontend.vercel.app/) | 🏅[ETHDubai 🇦🇪](https://devfolio.co/projects/habibicross-905d) |
 | **ArMarket** | Insurance-powered prediction markets. Users can participate in decentralized markets with added safety nets for minimized risk and stable platform economics. 💹 | [Repo](https://protocol.land/#/repository/cd567d15-c41a-47a5-951c-7562574ad436) | [Arlink](https://ar-ao_arlink.ar-io.dev/) | [Dapps with AI on Arweave](https://devpost.com/software/insurarchy) |
 | **Abstrakt🆔** | Decentralized auto loan approvals leveraging Polygon ID and Sepolia Scroll for secure identity verification and blockchain finance. 🚀🔐 | [Repo](https://github.com/Vib-UX/AbstraktID) | [Vercel](https://abstract-id.vercel.app/) | IDThon by [Polygon](https://polygon.technology/) |
