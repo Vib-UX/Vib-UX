@@ -52,7 +52,7 @@
 <img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="375">
 
 - 👨‍💻 Currently learning Rust 🦀.
-- 🚀 Adv Foundry, Stablecoins, AMMs, Uniswap pools, DEXs & Security @Cyfrin.
+- 🚀 Adv Foundry, Stablecoins, AMMs, Uniswap, DEXs & Security @Cyfrin.
 - 🛠️ Hackathon Builder. 
 - 🤝 Contributed to Bitcoin - Lightning Network (Open Source).
 - 🌐 Web3, DeFi, and Crypto Enthusiast.
