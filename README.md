@@ -61,8 +61,22 @@
 - 🎯 Always eager to learn and adapt to new tech trends.
 
 ---
-
 ## 🚀 Projects 🚣🏻‍♂️
+
+### 2025
+
+| Name | Description | Source Code | Deployed At | Built with 🤍 At |
+|:----:|:------------|:-----------:|:-----------:|:--------:|
+| **🔮 Baba Vanga** | A decentralized prediction market on native Bitcoin using Glittr, leveraging an AMM (CSMM) model for liquidity and price discovery. Uses an off-chain oracle for real-world event resolution. | [Repo](https://github.com/babavanga-encode-defi) | [Vercel](https://babavanga-glittr.vercel.app/) | 🏅 [Encode DeFi BTC 🇺🇸](https://x.com/crypto_vib/status/1894736149811523760) |
+| **💪 Pulse-Ip** | A dapp that transforms personal fitness AI-agents into digital assets. Secure AI processing from fitness trackers enables personalized AI agents tokenized as IP on Story Protocol for monetization and controlled access. | [Repo](https://github.com/Pulse-Ip-superAgentHack) | [Pulse-Ip](https://pulseip.shreyanshgajjar.com/) | 🏅 [Story Super-Agentathon 🇺🇸](https://x.com/crypto_vib/status/1896492996847378786) |
+| **📍 RegenPass 🇺🇸** | A geo-verification and AI-powered POAP minting system that enhances event engagement with AR, cross-chain minting using Chainlink CCIP, and fair reward distribution via Chainlink VRF. | [Repo](https://github.com/RegenPass-eth-denver) | [Vercel](https://regen-pass.vercel.app/) | 🏅 [ETH-Denver'2025](https://devfolio.co/projects/regenpass-79fb) |
+| **🤖 Orion** | A blockchain-powered AI personal assistant integrating Open-AI node operators for secure execution and data processing. Offers holographic interactions for seamless user engagement. | [Repo](https://github.com/Orion-agentic-eth) | [Vercel](https://orion-nex-gen.vercel.app/) | 🏅[Agentic Ethereum](https://drive.google.com/file/d/1-GMk3IpveyoreVWNxqdk4i8KVi9E5T-2/view?usp=sharing) |
+| **🏋️ SuiZa** | A Sui-based fitness platform leveraging AI, holograms, and health tracking for a personalized experience. Features privacy-preserving data storage, AI fitness guidance, holographic trainers, and Fitbit integration. | [Repo](https://github.com/Suiza-sui-agent-typhoon) | [Vercel](http://suiza-ai.vercel.app/) |  [Sui Agent Typhoon](#) |
+
+
+---
+
+### 2024
 
 | Name | Description | Source Code | Deployed At | Built with 🤍 At |
 |:----:|:------------|:-----------:|:-----------:|:--------:|
@@ -77,9 +91,29 @@
 | **ArMarket** | Insurance-powered prediction markets. Users can participate in decentralized markets with added safety nets for minimized risk and stable platform economics. 💹 | [Repo](https://protocol.land/#/repository/cd567d15-c41a-47a5-951c-7562574ad436) | [Arlink](https://ar-ao_arlink.ar-io.dev/) | [Dapps with AI on Arweave](https://devpost.com/software/insurarchy) |
 | **Abstrakt🆔** | Decentralized auto loan approvals leveraging Polygon ID and Sepolia Scroll for secure identity verification and blockchain finance. 🚀🔐 | [Repo](https://github.com/Vib-UX/AbstraktID) | [Vercel](https://abstract-id.vercel.app/) | IDThon by [Polygon](https://polygon.technology/) |
 
+
+
 ---
 
 <h2>⚙️ Open Source 🌐</h2>
+
+<h3>Glittr.fi (DeFi on Bitcoin)</h3>
+<ul>
+  <li>🔄 <strong>Adds Constant-Sum Market Maker (CSMM) Logic to Glittr Core</strong> (Rust) 
+    <ul>
+      <li>Introduced support for a constant‐sum market maker (CSMM) model alongside the existing constant‐product AMM logic.</li>
+      <li>Extended the RatioModel enum and updated the proportional minting and swap functions, allowing users to choose between AMM models when creating liquidity pools.</li>
+      <li>Added comprehensive tests to verify the new behavior. <a href="https://github.com/Glittrfi/glittr-core-public/pull/4">GitHub PR</a></li>
+    </ul>
+  </li>
+  <li>🛠️ <strong>Extend SDK Serialization to Support Constant-Sum AMM Model</strong> (Typescript)
+    <ul>
+      <li>Extended the SDK serialization schema to support the new constant-sum AMM model.</li>
+      <li>Updated the ratio_model enum in the proportional mint structure to allow serialization and deserialization of CSMM-based liquidity pools.</li>
+      <li>Ensured compatibility with existing SDK clients for seamless integration. <a href="https://github.com/Glittrfi/glittr-sdk-public/pull/3">GitHub PR</a></li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Bitcoin Lightning Network</h3>
 <ul>
