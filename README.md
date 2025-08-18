@@ -63,13 +63,16 @@
 ---
 ## 🚀 Projects 🚣🏻‍♂️
 
-### 2025
+<details open>
+<summary><h3>📅 2025 — Latest Builds & Hackathon Wins </h3></summary>
 
 | Name | Description | Source Code | Deployed At | Built with 🤍 At |
 |:----:|:------------|:-----------:|:-----------:|:--------:|
 | **♻ BTC DEX** | Native Bitcoin DEX with UTXO settlement leveraging AMM (CPMM) model for liquidity and price discovery. | [Repo](https://github.com/Vib-UX/dex-glittr) | [Vercel](https://dex-glittr.vercel.app/) | 🏅 [BTC Denver 🇺🇸](https://x.com/BoostyLabs/status/1893014577757176143) |
+| **⚡ ZapMindr** | An *agentic habit-tracking mini-app* built for the Nostr ecosystem, powered by Bitcoin Lightning ⚡. | [Repo](https://github.com/Vib-UX/agentic-mini-apps/tree/main/mini-app-04.ai-habit-tracker) | [Yakihonne (Nostr Client)](https://yakihonne.com/smart-widget/naddr1qvzqqqr42ypzq527y8ugx5kad2dn3x0a97grnq0ahtr7wtu0wwxayus7su5773a7qq2j65z2x4r5y5fngfmygkj389xhqve32q6hqzw7mwq) | 🏅 [Agentic Apps on Nostr](https://dorahacks.io/buidl/27824/) |
 | **🕵️ zkConfide** | zK-powered market protocol built with Uniswap v4 Hooks, designed to defend against MEV, frontrunning, and slippage attacks. Outcomes are resolved via zkProofs while user strategy and intent remain private. | [Repo](https://github.com/zkConfide-trifecta) | [Vercel](https://zkconfide-trifecta.vercel.app/) | [ETHGlobal Trifecta](https://ethglobal.com/showcase/zkconfide-41b3u) |
 | **🔮 Baba Vanga** | A decentralized prediction market on native Bitcoin using Glittr, leveraging an AMM (CSMM) model for liquidity and price discovery. Uses an off-chain oracle for real-world event resolution. | [Repo](https://github.com/babavanga-encode-defi) | [Vercel](https://babavanga-glittr.vercel.app/) | 🏅 [Encode DeFi BTC 🇺🇸](https://x.com/crypto_vib/status/1894736149811523760) |
+| **🎟️ Tickity** | The *fun, AR-powered ticketing dApp* reimagining events 🎉. Competes with Eventbrite & Luma by making ticketing smooth, interactive, and scam-proof — from purchase to entry. | [Repo](https://github.com/Vib-UX/tickity) | [APK](https://expo.dev/artifacts/eas/bRXGv8untN9uV5NsAy6Ljn.apk) | 🏅 [Etherlink Summer of Code 🇬🇧](https://etherlink.encode.club/#special-awards) |
 | **💪 Pulse-Ip** | A dapp that transforms personal fitness AI-agents into digital assets. Secure AI processing from fitness trackers enables personalized AI agents tokenized as IP on Story Protocol for monetization and controlled access. | [Repo](https://github.com/Pulse-Ip-superAgentHack) | [Pulse-Ip](https://pulseip.shreyanshgajjar.com/) | 🏅 [Story Super-Agentathon 🇺🇸](https://x.com/crypto_vib/status/1896492996847378786) |
 | **📍 RegenPass 🇺🇸** | A geo-verification and AI-powered POAP minting system that enhances event engagement with AR, cross-chain minting using Chainlink CCIP, and fair reward distribution via Chainlink VRF. | [Repo](https://github.com/RegenPass-eth-denver) | [Vercel](https://regen-pass.vercel.app/) | 🏅 [ETH-Denver'2025](https://devfolio.co/projects/regenpass-79fb) |
 | **🤖 Orion** | A blockchain-powered AI personal assistant integrating Open-AI node operators for secure execution and data processing. Offers holographic interactions for seamless user engagement. | [Repo](https://github.com/Orion-agentic-eth) | [Vercel](https://orion-nex-gen.vercel.app/) | 🏅[Agentic Ethereum](https://drive.google.com/file/d/1-GMk3IpveyoreVWNxqdk4i8KVi9E5T-2/view?usp=sharing) |
@@ -77,8 +80,11 @@
 
 
 ---
+</details>
 
-### 2024
+
+  <details>
+  <summary><h3>📅 2024 — Earlier Experiments & Hackathons 🌍</h3></summary>
 
 | Name | Description | Source Code | Deployed At | Built with 🤍 At |
 |:----:|:------------|:-----------:|:-----------:|:--------:|
@@ -97,6 +103,9 @@
 
 ---
 
+</details>
+
+---
 <h2>⚙️ Open Source 🌐</h2>
 
 <h3>Glittr.fi (DeFi on Bitcoin)</h3>
