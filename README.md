@@ -71,6 +71,7 @@
 
 | Name | Description | Source Code | Deployed At | Built with 🤍 At |
 |:----:|:------------|:-----------:|:-----------:|:--------:|
+| **BMCP** | Bitcoin Multichain Protocol enabling EVM execution triggered from native Schnorr-signed Bitcoin transactions | [Repo](https://github.com/Vib-UX/BMCP) | [Prod](https://bmcpfrontend-production.up.railway.app/) | 🏅 [Finalist ETHGlobal 🇦🇷](https://ethglobal.com/showcase/bmcp-pfm11) |
 | **BtcGamma** | Lightning-powered DeFi vault enabling 2–3× leveraged BTC yield on HyperEVM | [Repo](https://github.com/0xbrito/BtcGamma/tree/lightning/vault) | [PR](https://github.com/stakingrewards/hyperliquid-hackathon-ba-25/pull/24) | [🏅 Hyperliquid EVM Hack 🇦🇷](https://x.com/skinnaj/status/1990450299010437260?s=20) |
 | HLV Protocol | Agentic liquidity rebalancer bridging Bitcoin L2 ⇄ EVM — powering autonomous cross-chain swaps, trustless HTLC flows, and Vincent-driven liquidity management | [Repo](https://github.com/Vib-UX/HLV-Protocol) | [Vincent App](https://dashboard.heyvincent.ai/user/appId/5040304114/connect?redirectUri=http%3A%2F%2Flocalhost%3A5173) | 🏅 [ETHGlobal Online 🌐](https://ethglobal.com/showcase/hlv-protocol-u4jmc) |
 | **🦖 T-REX Protocol** | Mining Lightning liquidity → atomic, trustless swaps for zkRollup EVM node hubs — powered by Schnorr + Secp256k1 | [Repo](https://github.com/Vib-UX/Trex) | [Prod](https://trex-protocol.vercel.app/) | 🏅 [ETHGlobal New Delhi 🇮🇳](https://ethglobal.com/showcase/t-rex-protocol-3vpos) |
