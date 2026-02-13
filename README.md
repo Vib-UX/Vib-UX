@@ -138,7 +138,7 @@
 
 <h4>Bitcoin Lightning Network</h4>
 <ul>
-  <li>🚀 Lightning Network Daemon (Go)
+  <li>🚀 Lightning Network Daemon (Go) <a href="https://btc-101.notion.site/LND-Open-Source-276c182b395e801da4d4f08ccdaea0f4">Project Details</a>
     <ul>
       <li>⏩ Achieved a <strong>1.74x speedup</strong> in transaction processing by optimizing the LND codebase with batched JSON-RPC methods. <a href="https://github.com/Vib-UX/lnd/pull/1">GitHub PR</a></li>
       <li>✅ Enhanced reliability with comprehensive unit tests for key functions, ensuring consistent system performance.</li>
